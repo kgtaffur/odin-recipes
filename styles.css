@@ -1,0 +1,53 @@
+h1 {
+  font-family: "FiraCode Nerd Font", sans-serif;
+  font-size: 55px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "FiraCode Nerd Font", sans-serif;
+  font-size: 40px;
+  color: blue;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 25px;
+  font-family: "Cascadia Code", sans-serif;
+}
+
+ul li {
+  font-size: 20px;
+  color: green;
+}
+
+#back {
+  font-style: bold;
+  font-family: "FiraCode Nerd Font", sans-serif;
+  color: blue;
+  font-size: 15px;
+}
+
+ol li {
+  font-size: 20px;
+  color: red;
+}
+
+h4 {
+  font-family: "FiraCode Nerd Font", sans-serif;
+  font-size: 35px;
+  color: blue;
+}
+
+#source {
+  display: block;
+  font-family: "FiraCode Nerd Font", sans-serif;
+  font-size: 30px;
+  color: purple;
+  text-align: center;
+}
