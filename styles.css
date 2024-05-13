@@ -14,6 +14,7 @@ h3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 30px;
 }
 
 p {
@@ -50,4 +51,6 @@ h4 {
   font-size: 30px;
   color: purple;
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
